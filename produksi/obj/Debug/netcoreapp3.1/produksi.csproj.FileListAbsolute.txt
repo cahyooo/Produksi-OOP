@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\produksi\produksi\bin\Debug\netcoreapp3.1\produksi.exe
+C:\Users\asus\source\repos\produksi\produksi\bin\Debug\netcoreapp3.1\produksi.deps.json
+C:\Users\asus\source\repos\produksi\produksi\bin\Debug\netcoreapp3.1\produksi.runtimeconfig.json
+C:\Users\asus\source\repos\produksi\produksi\bin\Debug\netcoreapp3.1\produksi.runtimeconfig.dev.json
+C:\Users\asus\source\repos\produksi\produksi\bin\Debug\netcoreapp3.1\produksi.dll
+C:\Users\asus\source\repos\produksi\produksi\bin\Debug\netcoreapp3.1\produksi.pdb
+C:\Users\asus\source\repos\produksi\produksi\obj\Debug\netcoreapp3.1\produksi.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\produksi\produksi\obj\Debug\netcoreapp3.1\produksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\produksi\produksi\obj\Debug\netcoreapp3.1\produksi.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\produksi\produksi\obj\Debug\netcoreapp3.1\produksi.AssemblyInfo.cs
+C:\Users\asus\source\repos\produksi\produksi\obj\Debug\netcoreapp3.1\produksi.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\produksi\produksi\obj\Debug\netcoreapp3.1\produksi.dll
+C:\Users\asus\source\repos\produksi\produksi\obj\Debug\netcoreapp3.1\produksi.pdb
+C:\Users\asus\source\repos\produksi\produksi\obj\Debug\netcoreapp3.1\produksi.genruntimeconfig.cache
